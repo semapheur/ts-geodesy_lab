@@ -22,12 +22,12 @@
   --text-bold: 700;
 
   --text-shadow:
-      -1px -1px 0 var(--well),
-      1px -1px 0 var(--well),
-      -1px 1px 0 var(--well),
-      1px 1px 0 var(--well), -1px 0 0 var(--well),
-      1px 0 0 var(--well), 0 -1px 0 var(--well),
-      0 1px 0 var(--well);
+      -1px -1px 0 var(--color-well),
+      1px -1px 0 var(--color-well),
+      -1px 1px 0 var(--color-well),
+      1px 1px 0 var(--color-well), -1px 0 0 var(--color-well),
+      1px 0 0 var(--color-well), 0 -1px 0 var(--color-well),
+      0 1px 0 var(--color-well);
 
   font-family:
     system-ui,
